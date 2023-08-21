@@ -14,7 +14,7 @@
 
  
 
-- 🔭 I’m currently working on CAPSTONE [Facial reorganization in motion](https://github.com/vishnuvardhankoyya/CCTV_Facial-Recognization-In-Motion)
+- 🔭 I’m currently working on CAPSTONE
 
  
 

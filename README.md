@@ -62,11 +62,10 @@
 
  
 
-<a href="https://fb.com/koyya vishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="koyya vishnu" height="30" width="40" /></a>
 
-<a href="https://instagram.com/koyya_vishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koyya_vishnu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/harshit_bhavirisetty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koyya_vishnu" height="30" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/vishnu-v-1a384420b/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="vishnu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhavirisetty-venkata-harshit-b60a8a225" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="vishnu" height="30" width="40" /></a>
 
 </p>
 
